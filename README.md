@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord: Elli0ttlol
+- 📫 How to reach me ... Discord: Elliott1337
 
 <!---
 Elliott1337/Elliott1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
